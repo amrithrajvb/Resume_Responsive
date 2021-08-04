@@ -7,8 +7,8 @@
 }
 
 .first{
-    background-color: rgb(2, 48, 70);
-    width: 310px;
+    background-color: rgb(30, 93, 122);
+    width: 315px;
    height: 1200px;
 }
 hr{
@@ -19,8 +19,8 @@ hr{
     color: white;
 }
 .container .mail{
-    width: 29px;
-    height: 28px;
+    width: 25px;
+    height: 26px;
 }
 .container .mail_name{
 color: white;
@@ -28,7 +28,7 @@ color: white;
 }
 
 .mm{
-margin-left: 12px;
+margin-left: 6px;
 }
 .skill{
     color: white;
@@ -85,8 +85,8 @@ margin-left: 12px;
 .lin{
     margin-left: 5px;
 }
-.mm{
-    margin-left: 30px;
+.vk{
+    margin-left: 30px; 
 }
 }
 
@@ -95,7 +95,6 @@ margin-left: 12px;
         padding: 0;
     }
     .heading h1{
-        
         
         font-size: 20px;
     }
