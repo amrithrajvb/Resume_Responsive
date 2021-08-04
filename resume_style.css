@@ -1,0 +1,102 @@
+*{
+    box-sizing: border-box;
+}
+.container img{
+    width: 240px;
+    height: 160px;
+}
+
+.first{
+    background-color: rgb(2, 48, 70);
+    width: 310px;
+   height: 1200px;
+}
+hr{
+    color: white;
+}
+
+.contact{
+    color: white;
+}
+.container .mail{
+    width: 29px;
+    height: 28px;
+}
+.container .mail_name{
+color: white;
+
+}
+
+.mm{
+margin-left: 12px;
+}
+.skill{
+    color: white;
+}
+
+.language{
+    color: white;
+}
+
+.heading hr{
+    color: rgb(116, 67, 67);
+    width: 200px;
+    margin-left: 22px;
+}
+.heading{
+    width: 980px;
+
+    padding-left: 165px;
+    
+    background-color:#ebedef;
+}
+
+@media(max-width:700px){
+    .row{
+        flex-direction: row;  
+    }
+    .heading{
+        padding: 0;
+    }
+    .heading h1{
+        
+        
+        font-size: 20px;
+    }
+    .first{
+        height: 1500px;  
+    }
+
+}
+
+@media(max-width:580px){
+    
+    .cntc i{
+        padding:10px;
+        margin-top: 2px;
+    }
+.mk{
+    padding: 10px;
+   
+}
+.first{
+    height: 1100px;  
+}
+.lin{
+    margin-left: 5px;
+}
+.mm{
+    margin-left: 30px;
+}
+}
+
+@media(max-width:886px){
+    .heading{
+        padding: 0;
+    }
+    .heading h1{
+        
+        
+        font-size: 20px;
+    }
+}
